@@ -70,3 +70,7 @@
 ###< symfony/phpunit-bridge ###
 
 .idea
+
+
+.env
+.env.test
