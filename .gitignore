@@ -29,7 +29,7 @@
 /bin/*
 !bin/console
 !bin/symfony_requirements
-/vendor/
+/vendor
 
 # Assets and user uploads
 /web/bundles/
@@ -37,7 +37,7 @@
 
 # PHPUnit
 /app/phpunit.xml
-/phpunit.xml
+
 
 # Build data
 /build/
@@ -66,7 +66,7 @@
 .phpunit.result.cache
 ###< phpunit/phpunit ###
 
-###> symfony/phpunit-bridge ###
-.phpunit.result.cache
-/phpunit.xml
+
 ###< symfony/phpunit-bridge ###
+
+.idea
